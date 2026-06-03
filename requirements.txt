@@ -1,4 +1,5 @@
 ultralytics
-streamlit
-opencv-python
+fastapi
+uvicorn
 pillow
+python-multipart
